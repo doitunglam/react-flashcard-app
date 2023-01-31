@@ -1,0 +1,8 @@
+## This is list of tech stack
+
+React
+CSS: tailwind
+Webpack - Babel 
+holy fuck Webpack is slow
+ESLint
+Storybook - component testing
